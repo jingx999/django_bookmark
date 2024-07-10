@@ -1,0 +1,2 @@
+# django_bookmark
+一个用django框架编写的书签管理系统
